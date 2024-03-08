@@ -1,4 +1,4 @@
-package com.rgomes.authserver.config;
+package com.rgomes.authserver;
 
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;

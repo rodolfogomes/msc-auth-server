@@ -1,4 +1,4 @@
-package com.rgomes.authserver.config;
+package com.rgomes.authserver;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
